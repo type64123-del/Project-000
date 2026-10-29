@@ -1,0 +1,38 @@
+body {margin:0;padding:0;background:#180b1a;}
+p,td { font-family:Arial, Helvetica, sans-serif; margin-top: 0px;}
+a{color: #f69922;text-decoration: underline;}
+a:hover{color: #EF4729;text-decoration: underline;}
+a.hidden {text-decoration: none;color: #000000;cursor:default;}
+form {margin:0;padding:0;}
+ul {margin-left:20px;margin-top:0px;padding:1px;list-style-type: square;line-height: 16px;}
+h1 {font-size: 14px;font-weight: bold;color: #FFFFFF;margin: 0px;text-transform: uppercase;padding-bottom: 7px;}
+.bgy {background-repeat: repeat-y;}
+.bgx {background-repeat: repeat-x;}
+.norepeat {background-repeat: no-repeat;}
+.bottom_addr {font-size: 11px;color: #FFFFFF;padding-top: 2px;padding-bottom: 8px;padding-left: 6px;}
+.bottom_addr a {text-decoration: none;}
+.bottom_addr a:hover {text-decoration: underline;}
+.bottom_menu {color: #FFFFFF;padding-top: 6px;padding-bottom: 2px;font-size: 12px;padding-left: 6px;}
+.mbotbg {background-image: url(../images/mbotbg.gif);background-repeat: repeat-x;}
+.bottom_menu a {color: #FFFFFF;	text-decoration: underline;}
+.bottom_menu a:hover {color: #F69922;text-decoration: underline;}
+.menu {color: #442d27;background-image: url(../images/mbg.gif);background-repeat: no-repeat;font-weight: bold;padding-right: 10px;padding-left: 41px;	white-space: nowrap;	font-size: 12px;padding-top: 7px;padding-bottom: 7px;font-family: Arial, Helvetica, sans-serif;}
+.menu a{text-decoration: none;color: #442d27;}
+.menu a:hover {color: #FFFFFF;text-decoration: none;}
+.sub {color: #e2aa0f;text-transform: none;vertical-align: top;padding-top: 4px;padding-right: 5px;}
+.sub a{color: #e2aa0f;text-decoration: none;}
+.sub a:hover {color: #e2aa0f;text-decoration: underline;}
+.body_txt {color: #FFFFFF;text-align: justify;padding: 10px;vertical-align: top;font-size: 12px;background-image: url(../images/cbg.jpg);background-repeat: no-repeat;background-position: left top;}
+#company_name {font-size: 20px;font-weight: normal;text-transform: none;color: #FFFFFF;position: absolute;margin-left:478px;top:43px;width: 250px;font-family: Tahoma, Arial;z-index: 1;}
+.login_form {background-image: url(../images/login-form-bg.gif);background-repeat: repeat-x;height: 20px;width: 110px;border-width: 1px;border-style: solid;font-size: 11px;padding-top: 3px;padding-left: 1px;}
+#slogan {width:250px;top:138px;margin-left:330px;position: absolute;font-size: 15px;color: #FFFFFF;font-weight: bold;font-family: "Arial Narrow";z-index: 1;}
+#slogan_shadow {width:250px;top:139px;margin-left:331px;position: absolute;font-size: 15px;color: #000000;font-weight: bold;font-family: "Arial Narrow";z-index: 0;}
+#company_name_shadow {font-size: 20px;font-weight: normal;text-transform: none;
+	color: #000000;
+	position: absolute;
+	margin-left:479px;
+	top:44px;
+	width: 250px;
+	font-family: Tahoma, Arial;
+	z-index: 0;
+}
